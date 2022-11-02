@@ -1,0 +1,17 @@
+body {
+}
+.flex-container {
+  display: flex;
+  justify-content: space-evenly;
+  background-color: teal;
+  height: 50vh;
+  align-items: stretch;
+}
+
+/* align items control the flow vertically */
+/* justify contentes align items vertically */
+/* flex-container properties
+1. justify-content 
+i. space-between ii. space-evenly iii. space around iv. flex-end v. flex-start: default
+2. align items
+3.*/
